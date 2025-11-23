@@ -1,1 +1,41 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vocabulaire - Mon Karaté</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <h1>Vocabulaire Karaté</h1>
+  <img src="https://cdn.pixabay.com/photo/2025/02/25/19/32/ai-generated-9431468_1280.png" alt="Illustration de karaté" />
+</header>
+
+<nav>
+  <a href="index.html">Accueil</a>
+  <a href="katas.html">Katas</a>
+  <a href="vocabulaire.html">Vocabulaire</a>
+</nav>
+
+<main>
+  <section>
+    <h2>Termes et Techniques</h2>
+    <ul>
+      <li>Les positions de base (zenkutsu dachi, neko ashi dachi…)</li>
+      <li>Les attaques</li>
+      <li>Les défenses</li>
+      <li>Le vocabulaire japonais</li>
+      <li>Les techniques importantes</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 Mon Karaté - Tous droits réservés
+</footer>
+
+</body>
+</html>
