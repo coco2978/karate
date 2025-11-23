@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Katas - Mon Karaté</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header>
+  <h1>Katas appris</h1>
+  <img src="https://cdn.pixabay.com/photo/2025/02/25/19/32/ai-generated-9431468_1280.png" alt="Illustration de karaté" />
+</header>
+
+<nav>
+  <a href="index.html">Accueil</a>
+  <a href="katas.html">Katas</a>
+  <a href="vocabulaire.html">Vocabulaire</a>
+</nav>
+
+<main>
+  <section>
+    <h2>Liste de mes Katas</h2>
+    <ul class="kata-list">
+      <li class="kata-item">
+        <h3>Heian Shodan</h3>
+        <iframe src="https://www.youtube.com/embed/q1Rg8rUpjjw" allowfullscreen></iframe>
+      </li>
+      <li class="kata-item">
+        <h3>Heian Nidan</h3>
+        <iframe src="https://www.youtube.com/embed/rgs1ysn0R-0" allowfullscreen></iframe>
+      </li>
+      <li class="kata-item">
+        <h3>Heian Sandan</h3>
+        <iframe src="https://www.youtube.com/embed/jH6bv4GDpp0" allowfullscreen></iframe>
+      </li>
+      <li class="kata-item">
+        <h3>Tekki Shodan</h3>
+        <iframe src="https://www.youtube.com/embed/uifXvEXd_NU" allowfullscreen></iframe>
+      </li>
+      <li class="kata-item">
+        <h3>Bassai Dai</h3>
+        <iframe src="https://www.youtube.com/embed/Qpt3W7Y06Kg" allowfullscreen></iframe>
+      </li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 Mon Karaté - Tous droits réservés
+</footer>
+
+</body>
+</html>
